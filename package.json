@@ -1,0 +1,14 @@
+{
+  "name": "yaml-to-json",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Kaido Iwamoto",
+  "dependencies": {
+    "js-yaml": "^3.11.0"
+  },
+  "bin": {
+    "yaml2json": "index.js"
+  }
+}

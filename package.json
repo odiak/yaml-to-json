@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {},
+  "private": false,
   "author": "Kaido Iwamoto",
   "repository": {
     "type": "git",

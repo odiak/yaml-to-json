@@ -5,6 +5,10 @@
   "main": "index.js",
   "scripts": {},
   "author": "Kaido Iwamoto",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/odiak/yaml-to-json.git"
+  },
   "dependencies": {
     "js-yaml": "^3.11.0"
   },

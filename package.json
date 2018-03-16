@@ -1,11 +1,11 @@
 {
   "name": "@odiak/yaml-to-json",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {},
   "private": false,
-  "author": "Kaido Iwamoto",
+  "author": "Kaido Iwamoto <h6824.kaido@gmail.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/odiak/yaml-to-json.git"

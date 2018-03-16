@@ -1,5 +1,5 @@
 {
-  "name": "yaml-to-json",
+  "name": "@odiak/yaml-to-json",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
